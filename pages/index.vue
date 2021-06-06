@@ -10,7 +10,7 @@
           href="https://nuxtjs.org/"
           target="_blank"
           rel="noopener noreferrer"
-          class="button--green"
+          class="button--green w-[100px]"
         >
           Documentation
         </a>
